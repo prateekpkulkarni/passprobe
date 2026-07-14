@@ -1,0 +1,6 @@
+qiskit>=1.3.0
+pytket>=2.18.1
+cirq>=1.7.0
+bqskit>=1.2.1
+numpy
+scipy
