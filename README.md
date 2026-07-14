@@ -1,4 +1,4 @@
-# PassProbe: Quantifying Compiler Pass Contributions in Quantum Transpilation
+# ⚙️🔍 PassProbe: Quantifying Compiler Pass Contributions in Quantum Transpilation
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-success.svg)](LICENSE)
