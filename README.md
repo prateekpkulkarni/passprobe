@@ -5,6 +5,10 @@
 
 PassProbe is a mathematically rigorous framework designed to evaluate the true marginal contribution of individual transpiler passes in quantum compilation pipelines. Based on the paper _"PassProbe: Quantifying Compiler Pass Contributions in Quantum Transpilation"_, this tool utilizes cooperative game theory (specifically Shapley Values) to attribute circuit quality improvements fairly across interconnected compiler passes.
 
+<p align="center">
+  <img src="PassProbe_Frame.svg" alt="PassProbe Framework" width="900">
+</p>
+
 ## Features
 - **Cross-Compiler Support**: Built-in adapter functions to natively support **Qiskit**, **pytket**, **Cirq**, and **BQSKit**.
 - **Combinatorial Evaluation**: Exhaustively evaluates $2^k$ pass subsets to track non-linear pass interactions.
