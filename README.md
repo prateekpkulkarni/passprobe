@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-success.svg)](LICENSE)
 
-PassProbe is a mathematically rigorous framework designed to evaluate the true marginal contribution of individual transpiler passes in quantum compilation pipelines. Based on the paper _"PassProbe: Quantifying Compiler Pass Contributions in Quantum Transpilation"_, this tool utilizes cooperative game theory (specifically Shapley Values) to attribute circuit quality improvements fairly across interconnected compiler passes.
+PassProbe is a mathematically rigorous framework designed to evaluate the true marginal contribution of individual transpiler passes in quantum compilation pipelines. Based on the paper _"PassProbe: Quantifying Compiler Pass Contributions in Quantum Transpilation"_ (currently under submission), this tool utilizes cooperative game theory (specifically Shapley Values) to attribute circuit quality improvements fairly across interconnected compiler passes.
 
 <p align="center">
   <img src="PassProbe_Frame.svg" alt="PassProbe Framework" width="900">
