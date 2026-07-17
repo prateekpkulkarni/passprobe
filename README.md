@@ -5,6 +5,7 @@
 
 PassProbe is a mathematically rigorous framework designed to evaluate the true marginal contribution of individual transpiler passes in quantum compilation pipelines. Based on the paper _"PassProbe: Quantifying Compiler Pass Contributions in Quantum Transpilation"_ ([paper draft](passprobe_draft.pdf)), this tool utilizes cooperative game theory (specifically Shapley Values) to attribute circuit quality improvements fairly across interconnected compiler passes.
 
+NOTE: In case you have any questions, or need more information, please feel free to reach out. I'll be uploading the data used in the evaluation and more soon!
 <p align="center">
   <img src="PassProbe_Frame.svg" alt="PassProbe Framework" width="900">
 </p>
